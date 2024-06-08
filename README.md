@@ -1,14 +1,14 @@
 The goal of this project is to develop an automated system that can identify and classify plant diseases from images of plant leaves. This is crucial for agricultural technology as early detection of diseases can lead to timely intervention, reducing both the spread of disease and economic losses. This project will help in understanding the practical application of CNNs in a real-world problem and exploring various architectures.
 
-**Data Collection/Preparation**
+#**Data Collection/Preparation**
 
 In this section, I gather and prepare the dataset necessary for training the models. The data involves images of plant leaves from various classes, each representing a different plant disease. The dataset is augmented to enhance model generalizability, involving transformations like rotation, zoom, and flips. This preparation ensures the models are trained on a robust dataset that simulates a variety of real-world conditions.
 
-**Modelling**
+#**Modelling**
 
 The modelling section details the construction and training of convolutional neural networks (CNNs) designed to classify images of plant diseases. I use TensorFlow/Keras to build two separate models with different architectures to compare their performance. Each model includes layers for convolution, activation, pooling, and dense connections, tailored to extract features and perform classification tasks effectively.
 
-**Evaluation and Interpretation**
+#**Evaluation and Interpretation**
 
 Evaluation is conducted by applying the trained models to a separate test dataset that the models have not seen during training. I use metrics such as accuracy, precision, recall, and F1-score to assess the performance of each model. This section includes the setup for these metrics and discusses the results obtained from the models. This section also interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. 
 
