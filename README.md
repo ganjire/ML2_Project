@@ -15,7 +15,8 @@ Interpretation
 This final section interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. I analyze specific cases where the model performed well or poorly to understand the strengths and weaknesses of the approach. Comparisons between the models provide insights into the effectiveness of different neural network configurations for image-based plant disease classification.
 
 
-- Data Setup Instructions:
+
+Data Setup Instructions:
 To ensure seamless operation of the Jupyter Notebook in Google Colab, please follow these steps to set up the data and model files in your Google Drive:
 
 - Access Data and Model Files:
@@ -29,9 +30,9 @@ For each shareable link, open the link and then choose "Add shortcut to My Drive
 - Folder Structure:
 
 Ensure that the structure of the folders and files in your Google Drive matches the paths specified in the Notebook. The main folder should contain:
-> The full dataset folder
-> The test dataset folder
-> Two .h5 files for the models
-> A file with labels for the dataset
+The full dataset folder
+he test dataset folder
+Two .h5 files for the models
+A file with labels for the dataset
 
 
