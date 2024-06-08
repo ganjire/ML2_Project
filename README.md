@@ -10,7 +10,7 @@ In this section, I gather and prepare the dataset necessary for training the mod
 
 The modelling section details the construction and training of convolutional neural networks (CNNs) designed to classify images of plant diseases. I use TensorFlow/Keras to build two separate models with different architectures to compare their performance. Each model includes layers for convolution, activation, pooling, and dense connections, tailored to extract features and perform classification tasks effectively.
 
-**Evaluation and Interpretation**
+**Validation and Interpretation**
 
 Evaluation is conducted by applying the trained models to a separate test dataset that the models have not seen during training. I use metrics such as accuracy, precision, recall, and F1-score to assess the performance of each model. This section includes the setup for these metrics and discusses the results obtained from the models. This section also interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. 
 
