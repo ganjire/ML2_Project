@@ -29,10 +29,6 @@ For each shareable link, open the link and then choose "Add shortcut to My Drive
 
 - Folder Structure:
 
-Ensure that the structure of the folders and files in your Google Drive matches the paths specified in the Notebook. The main folder should contain:
-The full dataset folder
-The test dataset folder
-Two .h5 files for the models
-A file with labels for the dataset
+Ensure that the structure of the folders and files in your Google Drive matches the paths specified in the Notebook. The main folder should contain: The full dataset folder, the test dataset folder, two .h5 files for the models and a file with labels for the dataset.
 
 
