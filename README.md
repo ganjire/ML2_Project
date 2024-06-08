@@ -1,3 +1,5 @@
+The goal of this project is to develop an automated system that can identify and classify plant diseases from images of plant leaves. This is crucial for agricultural technology as early detection of diseases can lead to timely intervention, reducing both the spread of disease and economic losses. This project will help in understanding the practical application of CNNs in a real-world problem and exploring various architectures.
+
 Data Collection/Preparation
 
 In this section, I gather and prepare the dataset necessary for training the models. The data involves images of plant leaves from various classes, each representing a different plant disease. The dataset is augmented to enhance model generalizability, involving transformations like rotation, zoom, and flips. This preparation ensures the models are trained on a robust dataset that simulates a variety of real-world conditions.
