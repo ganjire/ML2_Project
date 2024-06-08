@@ -1,4 +1,4 @@
-# **Plant Disease Classification
+# **Plant Disease Classification**
 
 The goal of this project is to develop an automated system that can identify and classify plant diseases from images of plant leaves. This is crucial for agricultural technology as early detection of diseases can lead to timely intervention, reducing both the spread of disease and economic losses. This project will help in understanding the practical application of CNNs in a real-world problem and exploring various architectures.
 
