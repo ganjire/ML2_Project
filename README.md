@@ -50,6 +50,9 @@ Before running the notebook, verify that the paths to the datasets and models in
 
 Before you start running the Jupyter Notebook, please note the following:
 
+- Installing Dependencies:
+To ensure the smooth running of the Jupyter Notebook, you may need to install certain dependencies. These dependencies include libraries and packages used throughout the notebook for data manipulation, modeling, and visualization. If you encounter any errors related to missing packages, you can install them using !pip install <package_name> directly within your Google Colab notebook.
+
 - Pre-computed Results:
 All cells in the notebook have been executed, and the outcomes are visible. This includes results from data processing, modeling, and evaluations.
 
