@@ -38,6 +38,7 @@ Ensure that the structure of the folders and files in your Google Drive matches 
 Before running the notebook, verify that the paths to the datasets and models in the notebook match those in your Google Drive. Adjust any paths if necessary to reflect where you have stored the files within your Drive.
 
 ----- Running the Notebook -----
+
 Before you start running the Jupyter Notebook, please note the following:
 
 - Pre-computed Results:
