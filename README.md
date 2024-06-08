@@ -16,7 +16,8 @@ This final section interprets the outcomes of the models' performance. It includ
 
 
 
-Data Setup Instructions:
+----- Data Setup Instructions -----
+
 To ensure seamless operation of the Jupyter Notebook in Google Colab, please follow these steps to set up the data and model files in your Google Drive:
 
 - Access Data and Model Files:
@@ -36,15 +37,15 @@ Ensure that the structure of the folders and files in your Google Drive matches 
 
 Before running the notebook, verify that the paths to the datasets and models in the notebook match those in your Google Drive. Adjust any paths if necessary to reflect where you have stored the files within your Drive.
 
--- Running the Notebook
+----- Running the Notebook -----
 Before you start running the Jupyter Notebook, please note the following:
 
 - Pre-computed Results:
-  All cells in the notebook have been executed, and the outcomes are visible. This includes results from data processing, modeling, and evaluations.
+All cells in the notebook have been executed, and the outcomes are visible. This includes results from data processing, modeling, and evaluations.
 
 - Model Training Time:
-  The modeling section involves training deep learning models, which can be time-consuming. Given that the results of these training sessions are already visible and saved in the notebook, you may choose to skip re-running these sections to save time.
+The modeling section involves training deep learning models, which can be time-consuming. Given that the results of these training sessions are already visible and saved in the notebook, you may choose to skip re-running these sections to save time.
 
 - Test Dataset:
-- There is no need to create a separate test folder for the test dataset. I have provided a shareable link to the pre-prepared test dataset folder. You can directly use this to evaluate the models without re-creating or re-downloading the test data.
+There is no need to create a separate test folder for the test dataset. I have provided a shareable link to the pre-prepared test dataset folder. You can directly use this to evaluate the models without re-creating or re-downloading the test data. You can also skip re-running this cell.
 
