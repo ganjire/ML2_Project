@@ -12,7 +12,7 @@ The modelling section details the construction and training of convolutional neu
 
 **Validation and Interpretation**
 
-Evaluation is conducted by applying the trained models to a separate test dataset that the models have not seen during training. I use metrics such as accuracy, precision, recall, and F1-score to assess the performance of each model. This section includes the setup for these metrics and discusses the results obtained from the models. This section also interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. 
+Evaluation is conducted by applying the trained models to a separate test dataset that the models have not seen during training. I use metrics such as accuracy, precision, recall, and F1-score to assess the performance of the model. This section includes the setup for these metrics and discusses the results obtained from the models. This section also interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. 
 
 
 ## **Data Setup Instructions**
