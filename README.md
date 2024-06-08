@@ -25,7 +25,7 @@ Use the provided shareable links to access the folders and files necessary for t
 
 - Add to Your Google Drive:
 
-For each shareable link, open the link and then choose "Add shortcut to My Drive" or "Make a copy" to add the data and model files to your own Google Drive. This step is crucial for ensuring the paths in the Jupyter Notebook correspond to the actual data locations in your Google Drive.
+For each shareable link, open the link and follow the instructions on the PDF file to add the data and model files to your own Google Drive. This step is crucial for ensuring the paths in the Jupyter Notebook correspond to the actual data locations in your Google Drive.
 
 - Folder Structure:
 
