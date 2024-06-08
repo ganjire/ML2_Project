@@ -8,13 +8,9 @@ Modelling
 
 The modelling section details the construction and training of convolutional neural networks (CNNs) designed to classify images of plant diseases. I use TensorFlow/Keras to build two separate models with different architectures to compare their performance. Each model includes layers for convolution, activation, pooling, and dense connections, tailored to extract features and perform classification tasks effectively.
 
-Evaluation
+Evaluation and Interpretation
 
-Evaluation is conducted by applying the trained models to a separate test dataset that the models have not seen during training. I use metrics such as accuracy, precision, recall, and F1-score to assess the performance of each model. This section includes the setup for these metrics and discusses the results obtained from the models.
-
-Interpretation
-
-This final section interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. I analyze specific cases where the model performed well or poorly to understand the strengths and weaknesses of the approach. Comparisons between the models provide insights into the effectiveness of different neural network configurations for image-based plant disease classification.
+Evaluation is conducted by applying the trained models to a separate test dataset that the models have not seen during training. I use metrics such as accuracy, precision, recall, and F1-score to assess the performance of each model. This section includes the setup for these metrics and discusses the results obtained from the models. This section also interprets the outcomes of the models' performance. It includes a discussion on how different architectural choices and training parameters impacted the results. 
 
 
 
@@ -24,7 +20,7 @@ To ensure seamless operation of the Jupyter Notebook in Google Colab, please fol
 
 - Access Data and Model Files:
 
-Use the provided shareable links to access the folders and files necessary for this project. You will find links to the full dataset, a separate test dataset folder, and two .h5 model files.
+Use the provided shareable links to access the folders and files necessary for this project. You will find the links down below.
 
 - Add to Your Google Drive:
 
@@ -34,8 +30,9 @@ For each shareable link, open the link and then choose "Add shortcut to My Drive
 
 Ensure that the structure of the folders and files in your Google Drive matches the paths specified in the Notebook. The main folder should contain: The full dataset folder, the test dataset folder, two .h5 files for the models and a file with labels for the dataset.
 
-- Verify Paths:
+links
 
+- Verify Paths:
 
 Before running the notebook, verify that the paths to the datasets and models in the notebook match those in your Google Drive. Adjust any paths if necessary to reflect where you have stored the files within your Drive.
 
