@@ -38,6 +38,9 @@ Model 1: https://drive.google.com/file/d/1-CADCXfdSe_f9dHxH5FL9sa5Rh-cTYSj/view?
 Model 2: https://drive.google.com/file/d/1-p1w6HxROH7Pp6f7g9o1Hoqgp6FikCzg/view?usp=sharing  
 Label file: https://drive.google.com/file/d/17IeO1jrjj2z6BJU3zH_rCF9EsCrrC24e/view?usp=sharing  
 
+Link of Notebook on Colab if the the access on GitHub doesn't work:  
+https://colab.research.google.com/drive/1z9j9pOXbhj4Q1RImJfLhXYLV1eJ3X0op?usp=sharing
+
 
 - Verify Paths:
 
